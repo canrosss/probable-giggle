@@ -8,7 +8,6 @@
 <?php
   echo "<h2> Php is Fun!</h2>";
   echo "<h2> Hello world</h2>";
-
 ?>
 </body>
 </html>

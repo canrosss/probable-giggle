@@ -5,7 +5,6 @@
 // then click the URL that is emitted to the Output tab of the console
 
 $name = "Carlos 333";
-echo "<h1>$name</h1>";
 ?>
 
 </body>
