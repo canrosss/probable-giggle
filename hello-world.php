@@ -6,6 +6,9 @@
 
 $name = "Carlos 333";
 echo " Today is " . date("l") . ". ";
+$mycounter = 1;
+$mystring = "Hello";
+$myarray = array("One", "Two", "Three");
 ?>
 
 </body>
