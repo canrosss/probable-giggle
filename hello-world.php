@@ -9,6 +9,8 @@ echo " Today is " . date("l") . ". ";
 $mycounter = 1;
 $mystring = "Hello";
 $myarray = array("One", "Two", "Three");
+
+echo $myarray
 ?>
 
 </body>
