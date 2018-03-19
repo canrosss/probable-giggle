@@ -10,7 +10,7 @@ $mycounter = 1;
 $mystring = "Hello";
 $myarray = array("One", "Two", "Three");
 
-echo $myarray
+echo $myarray;
 ?>
 
 </body>
